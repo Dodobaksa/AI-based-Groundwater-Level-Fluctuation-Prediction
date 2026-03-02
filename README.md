@@ -3,6 +3,7 @@ This project builds an AI-based model to predict long-term groundwater level cha
 <p align="center">
   <img src="./aidata.png" alt="Competition Poster" width="600">
 </p>
+
 ## 📑 목차
 1. 개요
 2. 배경
